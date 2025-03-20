@@ -1,0 +1,7 @@
+[coil20data]
+git-tree-sha1 = "547b5a485b59a73fddf2603ec0ae2962f8c88a83"
+lazy = true
+
+    [[coil20data.download]]
+    sha256 = "8e423d624ab83ea9592913494b8fc834241a3b49b355c04ec1e185c6f4782681"
+    url = "https://www.dropbox.com/scl/fi/o0oblsjlvsgd0pgbcwmuo/coil-20.tar.xz?rlkey=exfqlu3jl95ox1kce02bej9ku"

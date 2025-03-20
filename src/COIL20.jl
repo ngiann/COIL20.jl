@@ -1,5 +1,9 @@
 module COIL20
 
-# Write your package code here.
+    using Printf, LazyArtifacts, Artifacts, JLD2
+
+    include("loadcoil20.jl")
+
+    export loadcoil20
 
 end
